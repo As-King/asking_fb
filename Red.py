@@ -819,6 +819,8 @@ def Check():
                 pass
         print('%s Waktu : '%(w).rjust(18, '-') + '{0:5.2f} '.format(tot_elapsed)+'%s'%(gt).ljust(18,'-'))
         input(f'{m}  Kembali Kemenu {mn}{mm}')
+        os.system('clear')
+        print(ban)
         menu()
     async def fetch_all(urls):
         """Launch requests for all web pages."""
