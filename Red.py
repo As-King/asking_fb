@@ -934,7 +934,7 @@ def start():
             print('  Acount Belum Login')
             login()
     except (KeyError, IOError,FileNotFoundError):
-        #print(' Acount Belum Login'.center(50))
+        print(' Acount Belum Login'.center(50))
         login()
 
 print(ban)
