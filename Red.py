@@ -933,7 +933,7 @@ def start():
         else:
             print('  Acount Belum Login')
             login()
-    except (KeyError, IOError):
+    except (KeyError, IOError,FileNotFoundError):
         #print(' Acount Belum Login'.center(50))
         login()
 
