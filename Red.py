@@ -45,8 +45,8 @@ Menu = f'''
  {c}╠═══╦══════════════════════════════╣
  {c}║ {w}1{c} ║{gt}Fb Target{c}                     ║    {gt}Coded By  : {mm}Red_Borneo-ASK
  {c}║ {w}2{c} ║{gt}FB{yy} Rombong{w} ({gt}Manual {mm}Fast{w})      {c}║    {gt}Team      : {mm}AS-KING PROJECT
- {c}║ {w}3{c} ║{gt}FB{yy} Rombong{w} ({gt}Pasword Auto {mm}Fast{w}){c}║    {gt}Published : {w}10{mm}-{w}07{mm}-{w}2019
- {c}║ {w}4{c} ║{gt}Check Akun  {c}                  ║
+ {c}║ {w}3{c} ║{gt}FB{yy} Rombong{w} ({gt}Pasword Auto {mm}Fast{w}){c}║    {gt}Github    : {c}https://github.com/As-King/asking_fb
+ {c}║ {w}4{c} ║{gt}Check Akun  {c}                  ║    {gt}Published : {w}10{mm}-{w}07{mm}-{w}2019
  {c}║ {w}5{c} ║{gt}Create Token{c}                  ║
  {c}║ {w}6{c} ║{gt}Exit Program{c}                  ║
  {c}╚═══╩══════════════════════════════╝'''
